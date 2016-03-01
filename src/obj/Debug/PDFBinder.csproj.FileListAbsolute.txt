@@ -1,0 +1,4 @@
+C:\dev\pdfbinder\src\obj\Debug\PDFBinder.csprojResolveAssemblyReference.cache
+C:\dev\pdfbinder\src\obj\Debug\PDFBinder.MainForm.resources
+C:\dev\pdfbinder\src\obj\Debug\PDFBinder.Properties.Resources.resources
+C:\dev\pdfbinder\src\obj\Debug\PDFBinder.csproj.GenerateResource.Cache
